@@ -1,6 +1,6 @@
 ## Mi Home
 
-Mi Home related protocols, documentation and SDKs. Include Aqara, Yeelight, etc.
+Mi Home related documentation and SDKs. Include Aqara, Yeelight, etc.
 
 ### Alias
 
@@ -12,17 +12,13 @@ Chuangmi: 创米
 
 Roborock: 米家扫地机器人, 石头扫地机器人
 
+Qmi: 青米
+
 Yeelight: Yeelink Light, 亿联客
 
 Zhimi: Smartmi, 智米
 
-### Protocols
-
-#### Official
-
-#### Unofficial
-
-[MiHome Binary protocol](https://github.com/OpenMiHome/mihome-binary-protocol)
+Zimi: 紫米
 
 ### Documentation
 
@@ -33,6 +29,8 @@ Zhimi: Smartmi, 智米
 [Yeelight](https://www.yeelight.com/en_US/developer)
 
 #### Unofficial
+
+[MiHome Binary protocol](https://github.com/OpenMiHome/mihome-binary-protocol)
 
 ### SDKs
 
@@ -46,4 +44,8 @@ Zhimi: Smartmi, 智米
 
 ### [Homebridge](https://github.com/nfarina/homebridge)
 
-[homebridge-mi-aqara](https://github.com/YinHangCode/homebridge-mi-aqara) Node.js
+[homebridge-mi-aqara](https://github.com/YinHangCode/homebridge-mi-aqara)
+
+[homebridge_yeelight](https://github.com/vvpossible/homebridge_yeelight)
+
+[homebridge-mi-air-purifier](https://github.com/seikan/homebridge-mi-air-purifier)
