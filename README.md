@@ -1,4 +1,6 @@
 ## Mi Home
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjat001%2Fmi-home.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjat001%2Fmi-home?ref=badge_shield)
+
 
 Mi Home related documentation and SDKs. Include Aqara, Yeelight, etc.
 
@@ -49,3 +51,7 @@ Zimi: 紫米
 [homebridge_yeelight](https://github.com/vvpossible/homebridge_yeelight)
 
 [homebridge-mi-air-purifier](https://github.com/seikan/homebridge-mi-air-purifier)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjat001%2Fmi-home.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjat001%2Fmi-home?ref=badge_large)
